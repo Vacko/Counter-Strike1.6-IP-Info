@@ -3,10 +3,15 @@
 Information about your favorite CS 1.6 servers.
 
 ## Features
-- CS 1.6 Server Info
-- Runs CS 1.6 and connects to specific server
+- Server Informations
+- CS 1.6/HLTV connecting you to specific server
 
-## Usage
-Run program and add ip address with port and name of CS 1.6 server to list. Click on the server you want to see information about.
+## Copyright and License
+
+Copyright 2011 Vacko
+
+Licensed under the [MIT licence](LICENSE)
+
+## Pictures
 
 <img src="cs1.6-ip-info.jpg" />
