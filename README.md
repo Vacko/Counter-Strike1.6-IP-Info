@@ -3,8 +3,8 @@
 Information about your favorite CS 1.6 servers.
 
 ## Features
-- Server Informations
-- CS 1.6/HLTV connecting you to specific server
+- Server informations
+- Connect CS 1.6/HLTV to server
 
 ## Copyright and License
 
